@@ -20,7 +20,8 @@ This project implements a BMI (Body Mass Index) calculator using Lightning Web C
 
 ## Screenshots
 
-Include screenshots or GIFs of your BMI calculator in action here.
+<img width="1280" alt="BMI Calculator" src="https://github.com/Devanshde/myPortfolio/assets/65611860/123ec2f3-5eff-4574-b28f-393014847bd1">
+
 
 ## Installation
 
