@@ -1,0 +1,81 @@
+:host() {
+    --dark-blue: #0b0d21;
+    --light-white: #fafafa;
+    --light-blue: #4f7df9;
+    --light-pink: #e91e63;
+    --dull-blue: #1d1e33;
+    --size-16: 16px;
+    --size-14: 14px;
+    --size-12: 12px;
+    --size-38: 38px;
+    --size-420: 420px;
+}
+
+.app {
+    min-height: 100vh;
+    background-size: cover;
+    background-image: url(/sfsites/c/resource/BMICalculator);
+    background-repeat: no-repeat;
+}
+
+.dummy {
+    color: black;
+}
+
+.mainContainer {
+    background-color: black;
+    margin: ;
+    position: ;
+}
+
+.box {
+    box-sizing: border-box;
+    max-width: var(--size-420);
+    text-align: center;
+    margin: auto;
+    background: var(--dark-blue);
+    color: var(--light-white);
+    padding: var(--size-16);
+    border-radius: var(--size-38)
+}
+
+h1 {
+    font-size: 36px;
+    padding: 20px 0px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 26px;
+    color: #e91e63;
+
+}
+
+.InfoWrapper {
+    background: var(--dull-blue);
+    padding: 16px;
+    border-bottom-left-radius: 38px;
+    border-bottom-right-radius: 38px;
+    font-size: var(--size-14);
+    text-align: center;
+}
+
+label {
+    color: white;
+    size: 20px;
+    font-weight: bolder;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+    color: #1d1e33;
+}
+
+button {
+    border-color: #e91e63;
+    color: white;
+    font-size: 16px;
+    padding: 12px;
+    background: #e91e63;
+}
