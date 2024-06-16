@@ -1,4 +1,4 @@
-```markdown
+
 # BMI Calculator - Lightning Web Component (LWC)
 
 This project implements a BMI (Body Mass Index) calculator using Lightning Web Components in Salesforce. It allows users to input their height and weight to calculate their BMI and determine their weight category.
