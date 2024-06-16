@@ -32,7 +32,6 @@ This project implements a BMI (Body Mass Index) calculator using Lightning Web C
    git clone https://github.com/your-username/bmi-calculator-lwc.git
 2.Deploy to Salesforce using Salesforce CLI:
 
-   ```bash
    sfdx force:source:deploy -p path/to/bmi-calculator-lwc
 Open the BMI Calculator component in your Salesforce environment
 
@@ -42,19 +41,17 @@ Navigate to the BMI Calculator component in your Salesforce application.
 Enter your height (in cm) and weight (in kg).
 Click on the Calculate button to see your BMI and weight category.
 Use the Re-Calculate button to clear inputs and calculate again.
-
 Technologies Used
 Lightning Web Components (LWC) - Salesforce's UI framework
 HTML, CSS - Styling and structure
 JavaScript (ES6+) - Logic and calculations
-
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Additional Notes:
+Additional Notes:
+Ensure your Salesforce environment supports Lightning Web Components and has necessary permissions to deploy custom components.
+Customize the CSS variables in bmiCalculator.css to fit your Salesforce theme or branding.
+Feel free to enhance this README with more details specific to your implementation, such as additional features, known issues, or troubleshooting tips. Good documentation helps others understand and contribute to your project effectively.
 
-- Ensure you're pasting this into a Markdown editor on GitHub or any text editor that supports Markdown syntax highlighting.
-- Markdown syntax uses `#` for headers, `-` for lists, and ``` for code blocks, which helps maintain consistent formatting.
-- Adjust any spacing or indentation as needed to match your preferred style.
 
-By following these steps, you should be able to preserve the formatting, including font sizes, when creating or editing your README file on GitHub.
+
