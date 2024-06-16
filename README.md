@@ -32,7 +32,7 @@ This project implements a BMI (Body Mass Index) calculator using Lightning Web C
    git clone https://github.com/your-username/bmi-calculator-lwc.git
 2.Deploy to Salesforce using Salesforce CLI:
 
-  
+   ```bash
    sfdx force:source:deploy -p path/to/bmi-calculator-lwc
 Open the BMI Calculator component in your Salesforce environment
 
