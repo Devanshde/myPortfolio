@@ -21,7 +21,8 @@ This project implements a BMI (Body Mass Index) calculator using Lightning Web C
 
 ## Screenshots
 
-Include screenshots or GIFs of your BMI calculator in action here.
+<img width="1280" alt="BMI Calculator" src="https://github.com/Devanshde/myPortfolio/assets/65611860/8da6269f-7e84-485a-b668-df19787db685">
+
 
 ## Installation
 
@@ -41,15 +42,14 @@ Navigate to the BMI Calculator component in your Salesforce application.
 Enter your height (in cm) and weight (in kg).
 Click on the Calculate button to see your BMI and weight category.
 Use the Re-Calculate button to clear inputs and calculate again.
+
 Technologies Used
 Lightning Web Components (LWC) - Salesforce's UI framework
 HTML, CSS - Styling and structure
 JavaScript (ES6+) - Logic and calculations
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-vbnet
-Copy code
 
 ### Additional Notes:
 
