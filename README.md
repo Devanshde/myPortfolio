@@ -1,11 +1,3 @@
-It seems like you're encountering formatting issues when copying the README text. To ensure the font size remains consistent, you can follow these steps:
-
-1. **Plain Text Editor**: Use a plain text editor like Notepad (Windows) or TextEdit (Mac) to paste the README content.
-2. **Markdown**: Ensure you're copying the text as plain Markdown format, without any rich text formatting.
-3. **GitHub**: When you create or edit your README on GitHub, make sure to paste the text directly into the Markdown editor.
-
-Here’s the README content with markdown syntax that should maintain consistent formatting:
-
 ```markdown
 # BMI Calculator - Lightning Web Component (LWC)
 
